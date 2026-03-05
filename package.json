@@ -1,0 +1,11 @@
+{
+  "name": "meetjs-presentation",
+  "private": true,
+  "scripts": {
+    "start": "serve . -l 8000"
+  },
+  "devDependencies": {
+    "reveal.js": "^5.1.0",
+    "serve": "^14.2.0"
+  }
+}
